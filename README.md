@@ -1,5 +1,5 @@
 # Air-Quality-Analysis-of-India
-This repository contains Python scripts and Jupyter notebooks for analyzing air quality data from various cities in India. The project aims to provide insights into air pollution levels, helping stakeholders understand and address environmental challenges.
+This repository contains Jupyter notebook for analyzing air quality data from various cities in India. The project aims to provide insights into air pollution levels, helping stakeholders understand and address environmental challenges.
 
 ##### Colab Link: https://colab.research.google.com/drive/1RTBDEyxqpc3mVdFBWS3m-2Dd6Gdlk2rY?usp=sharing
 
