@@ -22,9 +22,18 @@ Matplotlib and Seaborn: Create static and interactive visualizations to explore 
 Jupyter Notebooks: Use Jupyter notebooks for interactive data analysis and documentation.
 
 ## Results: 
+
 ### Pollution Trends:
 To analyze pollution trends, we can calculate the average pollution levels for each city or state in India. By grouping the data by city/state and computing the mean pollutant levels, we can identify which cities or states exhibit the highest and lowest levels of pollution on average. This analysis helps in understanding the overall pollution trends across different regions.
 ### Geographical Patterns:
 Geographical patterns of pollution can be examined by plotting the latitude and longitude coordinates of monitoring stations on a scatter plot. The pollution levels can be represented using color gradients, where higher pollution levels are indicated by darker colors. This visualization helps in identifying any spatial patterns or hotspots of pollution concentration across different regions of India.
 ### Pollutants Analysis:
 Analyzing pollutants involves identifying the most common and least common pollutants found across the dataset. By grouping the data by pollutant ID, we can determine which pollutants are frequently observed and which ones are less prevalent. This analysis provides insights into the types and distribution of pollutants in the dataset.
+
+## Data Sources:
+
+The data for this project was obtained from the following source:
+
+- [Real-Time Air Quality Index](https://data.gov.in/catalog/real-time-air-quality-index) from data.gov.in. Accessed [02-05-2024].
+
+Please refer to the original source for more details on the data and its collection methodology.
