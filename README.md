@@ -1,7 +1,7 @@
 # Air-Quality-Analysis-of-India
 This repository contains Python scripts and Jupyter notebooks for analyzing air quality data from various cities in India. The project aims to provide insights into air pollution levels, helping stakeholders understand and address environmental challenges.
 
-### Colab Link: https://colab.research.google.com/drive/1RTBDEyxqpc3mVdFBWS3m-2Dd6Gdlk2rY?usp=sharing
+##### Colab Link: https://colab.research.google.com/drive/1RTBDEyxqpc3mVdFBWS3m-2Dd6Gdlk2rY?usp=sharing
 
 ## Key Features:
 Data Exploration: Explore the provided air quality dataset to understand its structure and contents.
@@ -10,9 +10,9 @@ Visualization: Generate interactive visualizations to visualize pollutant levels
 
 Top Polluted Cities: Identify and visualize the top polluted cities based on various pollutant levels.
 
-Pollutant Analysis: Analyze different pollutants such as CO, NO2, NH3, OZONE, PM2.5, PM10, and SO2 to understand their distribution and impact on air quality.
-
 Geospatial Analysis: Perform geospatial analysis to visualize pollutant levels on maps and identify pollution hotspots.
+
+Pollutant Analysis: Analyze different pollutants such as CO, NO2, NH3, OZONE, PM2.5, PM10, and SO2 to understand their distribution and impact on air quality.
 
 ## Technologies Used:
 Python: Utilize Python programming language for data manipulation, analysis, and visualization.
@@ -27,8 +27,10 @@ Jupyter Notebooks: Use Jupyter notebooks for interactive data analysis and docum
 
 ### Pollution Trends:
 To analyze pollution trends, we can calculate the average pollution levels for each city or state in India. By grouping the data by city/state and computing the mean pollutant levels, we can identify which cities or states exhibit the highest and lowest levels of pollution on average. This analysis helps in understanding the overall pollution trends across different regions.
+
 ### Geographical Patterns:
 Geographical patterns of pollution can be examined by plotting the latitude and longitude coordinates of monitoring stations on a scatter plot. The pollution levels can be represented using color gradients, where higher pollution levels are indicated by darker colors. This visualization helps in identifying any spatial patterns or hotspots of pollution concentration across different regions of India.
+
 ### Pollutants Analysis:
 Analyzing pollutants involves identifying the most common and least common pollutants found across the dataset. By grouping the data by pollutant ID, we can determine which pollutants are frequently observed and which ones are less prevalent. This analysis provides insights into the types and distribution of pollutants in the dataset.
 
