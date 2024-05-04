@@ -6,11 +6,11 @@ This repository contains Python scripts and Jupyter notebooks for analyzing air 
 ## Key Features:
 Data Exploration: Explore the provided air quality dataset to understand its structure and contents.
 
-Visualization: Generate interactive visualizations such as line plots, bar charts, and scatter plots to visualize pollutant levels, trends, and correlations.
+Visualization: Generate interactive visualizations to visualize pollutant levels, trends, and correlations.
 
 Top Polluted Cities: Identify and visualize the top polluted cities based on various pollutant levels.
 
-Pollutant Analysis: Analyze different pollutants such as CO, NO2, NH5, OZONE, PM2.5, PM10, and SO2 to understand their distribution and impact on air quality.
+Pollutant Analysis: Analyze different pollutants such as CO, NO2, NH3, OZONE, PM2.5, PM10, and SO2 to understand their distribution and impact on air quality.
 
 Geospatial Analysis: Perform geospatial analysis to visualize pollutant levels on maps and identify pollution hotspots.
 
