@@ -1,29 +1,25 @@
-# Air-Quality-Analysis-of-India
-This repository contains Jupyter notebook for analyzing air quality data from various cities in India. The project aims to provide insights into air pollution levels, helping stakeholders understand and address environmental challenges.
+# Air Quality Analysis of India
 
-##### Colab Link: https://colab.research.google.com/drive/1RTBDEyxqpc3mVdFBWS3m-2Dd6Gdlk2rY?usp=sharing
+This repository contains a Jupyter notebook for analyzing air quality data from various cities in India. The project aims to provide insights into air pollution levels, helping stakeholders understand and address environmental challenges.
+
+##### Colab Link: [Google Colab](https://colab.research.google.com/drive/1RTBDEyxqpc3mVdFBWS3m-2Dd6Gdlk2rY?usp=sharing)
 
 ## Key Features:
-Data Exploration: Explore the provided air quality dataset to understand its structure and contents.
 
-Visualization: Generate interactive visualizations to visualize pollutant levels, trends, and correlations.
-
-Top Polluted Cities: Identify and visualize the top polluted cities based on various pollutant levels.
-
-Geospatial Analysis: Perform geospatial analysis to visualize pollutant levels on maps and identify pollution hotspots.
-
-Pollutant Analysis: Analyze different pollutants such as CO, NO2, NH3, OZONE, PM2.5, PM10, and SO2 to understand their distribution and impact on air quality.
+- **Data Exploration**: Explore the provided air quality dataset to understand its structure and contents.
+- **Visualization**: Generate interactive visualizations to visualize pollutant levels, trends, and correlations.
+- **Top Polluted Cities**: Identify and visualize the top polluted cities based on various pollutant levels.
+- **Geospatial Analysis**: Perform geospatial analysis to visualize pollutant levels on maps and identify pollution hotspots.
+- **Pollutant Analysis**: Analyze different pollutants such as CO, NO2, NH3, OZONE, PM2.5, PM10, and SO2 to understand their distribution and impact on air quality.
 
 ## Technologies Used:
-Python: Utilize Python programming language for data manipulation, analysis, and visualization.
 
-Pandas: Perform data manipulation and analysis tasks using the Pandas library.
+- **Python**: Utilize Python programming language for data manipulation, analysis, and visualization.
+- **Pandas**: Perform data manipulation and analysis tasks using the Pandas library.
+- **Matplotlib and Seaborn**: Create static and interactive visualizations to explore data patterns and trends.
+- **Jupyter Notebooks**: Use Jupyter notebooks for interactive data analysis and documentation.
 
-Matplotlib and Seaborn: Create static and interactive visualizations to explore data patterns and trends.
-
-Jupyter Notebooks: Use Jupyter notebooks for interactive data analysis and documentation.
-
-## Results: 
+## Results:
 
 ### Pollution Trends:
 To analyze pollution trends, we can calculate the average pollution levels for each city or state in India. By grouping the data by city/state and computing the mean pollutant levels, we can identify which cities or states exhibit the highest and lowest levels of pollution on average. This analysis helps in understanding the overall pollution trends across different regions.
